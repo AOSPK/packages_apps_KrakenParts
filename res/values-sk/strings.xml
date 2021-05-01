@@ -188,6 +188,8 @@
     <string name="backlight_summary_enabled">Použiť</string>
     <string name="disable_navkeys_title">Navigačný panel na obrazovke</string>
     <string name="disable_navkeys_summary">Povoliť navigačný panel na obrazovke a zakázať hardvérové tlačidlá</string>
+    <string name="swap_capacitive_keys_title">Prehodiť kapacitné tlačidlá</string>
+    <string name="swap_capacitive_keys_summary">Vymeniť poradie tlačidiel Nedávne a Späť</string>
     <string name="navigation_bar_category">Navigačný panel</string>
     <string name="navigation_bar_left_summary">V režime na šírku umiestniť navigačný panel na ľavú stranu obrazovky</string>
     <string name="navigation_bar_arrow_keys_title">Zobraziť šípky pri písaní</string>

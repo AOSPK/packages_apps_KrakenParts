@@ -192,6 +192,8 @@
     <string name="backlight_summary_enabled">Активирани</string>
     <string name="disable_navkeys_title">Разреши екранната лента за навигация</string>
     <string name="disable_navkeys_summary">Разреши екранна навигационна лента и забрани хардуерните бутони</string>
+    <string name="swap_capacitive_keys_title">Размени капацитивните бутони</string>
+    <string name="swap_capacitive_keys_summary">Размяна на бутоните \"Последни\" и \"Назад\"</string>
     <string name="navigation_bar_category">Навигационна лента</string>
     <string name="navigation_bar_invert_layout_title">Объръщане реда на бутоните</string>
     <string name="navigation_bar_left_summary">Поставете лентата за навигация от лявата страна на екрана в пейзажен режим</string>
@@ -389,11 +391,11 @@
     <string name="contributors_cloud_failed_message">Неуспех при изтеглянето на информация за разработчиците</string>
     <string name="contributor_info_menu">Потребителска информация</string>
     <string name="contributor_info_msg">&lt;b&gt;Име:&lt;/b&gt; &lt;xliff:g id="name"&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
-                 &lt;b&gt;Ник:&lt;/b&gt; &lt;xliff:g id="nick"&gt;%2$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
-                 &lt;b&gt;Ангажира:&lt;/b&gt; &lt;xliff:g id="commits"&gt;%3$s&lt;/xliff:g&gt;</string>
+                 &lt;b&gt;Псевдоним:&lt;/b&gt; &lt;xliff:g id="nick"&gt;%2$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
+                 &lt;b&gt;Промени:&lt;/b&gt; &lt;xliff:g id="commits"&gt;%3$s&lt;/xliff:g&gt;</string>
     <string name="contributions_info_menu">Обща информация</string>
-    <string name="contributions_info_msg">&lt;b&gt;Брой разработчици:&lt;/b&gt; &lt;xliff:g id="total_contributors"&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
-                 &lt;b&gt;Брой промени:&lt;/b&gt; &lt;xliff:g id="total_commits"&gt;%2$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
+    <string name="contributions_info_msg">&lt;b&gt;Брой сътрудници:&lt;/b&gt; &lt;xliff:g id="total_contributors"&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
+                 &lt;b&gt;Общо промени:&lt;/b&gt; &lt;xliff:g id="total_commits"&gt;%2$s&lt;/xliff:g&gt;&lt;br/&gt;&lt;br/&gt;
                  &lt;b&gt;Последна актуализация:&lt;/b&gt; &lt;xliff:g id="date"&gt;%3$s&lt;/xliff:g&gt;</string>
     <string name="anonymous_statistics_title">Статистики</string>
     <string name="anonymous_statistics_summary">Помогнете да направим Kraken по-добър, като разрешите да събира анонимни статистически данни</string>
