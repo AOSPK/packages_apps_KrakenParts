@@ -62,6 +62,7 @@
     <string name="light_brightness_zen">Não Perturbe</string>
     <string name="battery_light_title">Luz da bateria</string>
     <string name="battery_low_pulse_title">Pulsar quando a bateria estiver baixa</string>
+    <string name="battery_light_full_charge_disabled_title">Desligue quando estiver totalmente carregado</string>
     <string name="battery_light_list_title">Cores</string>
     <string name="battery_light_low_color_title">Bateria baixa</string>
     <string name="battery_light_medium_color_title">Carregando</string>
