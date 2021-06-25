@@ -107,10 +107,10 @@
 
     </PreferenceCategory>
 
-    <PreferenceCategory
+<!--    <PreferenceCategory
         android:title="@string/status_bar_brightness_category">
 
-        <lineageos.preference.LineageSecureSettingListPreference
+           <lineageos.preference.LineageSecureSettingListPreference
             android:key="qs_show_brightness_slider"
             android:title="@string/status_bar_brightness_slider_title"
             android:summary="%s"
@@ -132,6 +132,6 @@
             android:title="@string/status_bar_toggle_brightness"
             android:summary="@string/status_bar_toggle_brightness_summary"
             android:defaultValue="false" />
-    </PreferenceCategory>
+    </PreferenceCategory> --->
 
 </PreferenceScreen>
