@@ -532,4 +532,9 @@
     <string name="sms_security_check_limit_summary">Os aplicativos podem enviar %s mensagens durante 1 minuto antes de exigirem confirmação</string>
     <string name="sms_security_check_limit_summary_none">Os aplicativos não podem enviar qualquer mensagem sem confirmação</string>
     <string name="sms_security_check_limit_always_confirm">Confirmar sempre</string>
+
+    <!-- Colored Statusbar Icons -->
+    <string name="statusbar_icons_style">Ícones coloridos da barra de status</string>
+    <string name="statusbar_icons_style_summary">Escolha o estilo dos ícones da barra de status (requer reinicialização do SystemUI)</string>
+
 </resources>
